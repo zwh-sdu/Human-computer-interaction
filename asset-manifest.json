@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Human-computer-interaction/static/css/main.073c9b0a.css",
+    "main.js": "/Human-computer-interaction/static/js/main.8e697020.js",
+    "static/js/787.f28d6e2b.chunk.js": "/Human-computer-interaction/static/js/787.f28d6e2b.chunk.js",
+    "static/media/logo.svg": "/Human-computer-interaction/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Human-computer-interaction/index.html",
+    "main.073c9b0a.css.map": "/Human-computer-interaction/static/css/main.073c9b0a.css.map",
+    "main.8e697020.js.map": "/Human-computer-interaction/static/js/main.8e697020.js.map",
+    "787.f28d6e2b.chunk.js.map": "/Human-computer-interaction/static/js/787.f28d6e2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8e697020.js"
+  ]
+}
